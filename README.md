@@ -81,15 +81,20 @@ Kubernetes
 Cloud
      ↓
 SRE
+```
 
+---
 
-🎯 Career Direction
+## 🎯 Career Direction
 
 I'm building toward roles such as:
 
-Observability Engineer → SRE → Cloud / Platform Engineering
+**Observability Engineer → SRE → Cloud / Platform Engineering**
 
 My goal is to work on systems where monitoring is not only about dashboards, but about understanding system behavior, detecting failures and reducing Mean Time to Resolution.
 
+---
 
+## 🔗 Connect
 
+[LinkedIn](https://www.linkedin.com/in/bruno-menaguali/)
